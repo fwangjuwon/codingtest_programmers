@@ -6,5 +6,7 @@ public class String_1 {
         System.out.println(a.charAt(0) + a.charAt(2));
         String b = a + a.charAt(0);
         System.out.println(b);
+        System.out.println("abcdefg".charAt(0));
+
     }
 }
